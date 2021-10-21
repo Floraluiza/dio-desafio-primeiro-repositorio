@@ -1,0 +1,15 @@
+Links:
+Boas-vindas ao Bootcamp Impulso React Web Developer - 
+https://certificates.digitalinnovation.one/CC40CF71
+
+Bem-vindo a DIO - https://certificates.digitalinnovation.one/F96792EB
+
+IDE Instalação e Configuração (Visual Studio Code) - https://certificates.digitalinnovation.one/6190B9C8
+
+Lógica de programação Essencial - https://certificates.digitalinnovation.one/00ACDC5C
+
+Aprenda o que são Estrutura de Dados e Algoritmos - 
+https://certificates.digitalinnovation.one/141CD6137
+
+Introdução ao Git e ao GitHub - https://certificates.digitalinnovation.one/DCA37FCF 
+
